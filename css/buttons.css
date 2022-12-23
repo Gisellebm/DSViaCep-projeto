@@ -1,0 +1,15 @@
+.btn-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.btn {
+  width: 25rem;
+  height: 5rem;
+  background-color: var(--bg-nav-and-btn);
+  border-radius: 4px;
+  border: 0;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
